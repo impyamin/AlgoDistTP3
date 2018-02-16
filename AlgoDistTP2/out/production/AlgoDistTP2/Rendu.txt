@@ -1,0 +1,5 @@
+1- Tous les noeuds sont dans un etat Initiateur au début.
+
+2- l'Etat distingué désigne un noeud qui aura un état différent des autres
+
+3- On compare les valeurs ( ou couleur ) et on agit en fonction.
